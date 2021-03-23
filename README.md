@@ -3,3 +3,17 @@
 I like to Study a lot of things!📚
 
 [![Gmail Badge](https://img.shields.io/badge/-crinexk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:crinexk@gmail.com)](mailto:crinexk@gmail.com)
+
+## Favorite Technology 💻
+
+- Machine Learning
+- Deep Learning
+- Image Processing
+- Data Science
+- Mobile Application
+- Hacking & Security
+- Recommendation
+
+
+## Programming Languages 🎮
+
