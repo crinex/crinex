@@ -2,7 +2,7 @@
 
 I like to Study a lot of things!📚
 
-[![Gmail Badge](https://img.shields.io/badge/-crinexk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:crinexk@gmail.com)](mailto:crinexk@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-crinexk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:crinexk@gmail.com)](mailto:crinexk@gmail.com) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/crinex/skinet-streamlit/main/app.py)
 
 ## 💻 Favorite Technology 
 
