@@ -2,7 +2,7 @@
 
 I like to Study a lot of things!📚
 
-[![Gmail Badge](https://img.shields.io/badge/-crinexk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:crinexk@gmail.com)](mailto:crinexk@gmail.com) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/crinex/skinet-streamlit/main/app.py)
+[![Gmail Badge](https://img.shields.io/badge/-crinexk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:crinexk@gmail.com)](mailto:crinexk@gmail.com) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/crinex/skinet-streamlit/main/app.py) <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/>
 
 ## 💻 Favorite Technology 
 
@@ -27,5 +27,6 @@ I like to Study a lot of things!📚
 - 💬 I like to talk about a problem with Deep Learning.
 - 💉 Recently, I have been studying using AI in Medical.
 - 👟 I like work out too.
+- 🤩 And I have Streamlit Share 
 
 [![Crinex's GitHub stats](https://github-readme-stats.vercel.app/api?username=crinex&theme=gotham&show_icons=true&hide=contribs,prs&cache_seconds=1800)](https://github.com/crinex)
