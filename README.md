@@ -13,7 +13,19 @@ I like to Study a lot of things!📚
 - Mobile Application
 - Hacking & Security
 - Recommendation
+- Medical Science
 
 
 ## 🎮 Programming Languages
 <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'/>  <img src='https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white'/>  <img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'/>  <img src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'/>  <img src='https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white'/>
+
+
+## 🧠 Bio
+
+- 🏫 I'm just Studying at University.
+- ⚙️ I love to make something like AI.
+- 💬 I like to talk about a problem with Deep Learning.
+- 💉 Recently, I have been studying using AI in Medical.
+- 👟 I like work out too.
+
+[![Crinex's GitHub stats](https://github-readme-stats.vercel.app/api?username=crinex)](https://github.com/anuraghazra/github-readme-stats)
