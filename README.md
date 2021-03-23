@@ -2,7 +2,9 @@
 
 I like to Study a lot of things!📚
 
-[![Gmail Badge](https://img.shields.io/badge/-crinexk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:crinexk@gmail.com)](mailto:crinexk@gmail.com) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/crinex/skinet-streamlit/main/app.py) <img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'/>
+[![Gmail Badge](https://img.shields.io/badge/-crinexk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:crinexk@gmail.com)](mailto:crinexk@gmail.com) [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/crinex/skinet-streamlit/main/app.py) <a href="https://instagram.com/joljak_jy">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 
 ## 💻 Favorite Technology 
 
