@@ -28,4 +28,4 @@ I like to Study a lot of things!📚
 - 💉 Recently, I have been studying using AI in Medical.
 - 👟 I like work out too.
 
-![Crinex's GitHub stats](https://github-readme-stats.vercel.app/api?username=crinex&theme=cobalt &show_icons=true)
+![Crinex's GitHub stats](https://github-readme-stats.vercel.app/api?username=crinex&theme=cobalt&show_icons=true)
